@@ -1,16 +1,18 @@
-# hello_rectangle
+# AJ Simple Random Name Generator for Startup's
+Copyright 2018 TOG and Assoc.
+
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project can be used as a starting point for a Flutter application.
+Current state of app will give unlimited scrolls of random names and allows for
+saving those name.
+This project is a work in progress.
+## Installing
+This can be simply installed by cloning into Android Studio
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+It is open code and can be used to learn Flutter and design your own app by
+editing Main.dart
