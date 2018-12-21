@@ -16,3 +16,6 @@ This can be simply installed by cloning into Android Studio
 
 It is open code and can be used to learn Flutter and design your own app by
 editing Main.dart
+NOTE!! THIS APP IS NAMED hello_rectangle BECAUSE 
+I DID NOT RESTART WITH NEW APP.  I JUST EDITED ONE I 
+HAD STARTED ON. 
